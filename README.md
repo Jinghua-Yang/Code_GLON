@@ -14,3 +14,6 @@
   
   year={2022},
 }
+
+The main function: Demo_LRTC.
+The compared methods: HaLRTC, TSVD, KBR, TMac-TT, and TT-TV.
